@@ -1,5 +1,4 @@
 module.exports = {
-  presets: [
-    '@vue/cli-plugin-babel/preset'
-  ]
+  // eslint-disable-next-line comma-dangle
+  presets: ['@vue/cli-plugin-babel/preset'],
 }

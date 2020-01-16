@@ -3,7 +3,7 @@
     <h1 class="pt-5 pb-10 sm:py-20">{{ msg }}</h1>
 
     <div class="container mx-auto p-4">
-      <div class="flex">
+      <div class="flex flex-wrap">
         <div class="w-full sm:w-1/3 pb-2 sm:p-2">
           <div
             class="border-gray-600 border-solid border rounded-lg p-4 relative"
@@ -15,7 +15,7 @@
             </span>
 
             <h1
-              class="text-center text-2xl text-blue-100 bg-blue-800 -mx-4 -mt-4 py-5 rounded-t-lg -mx-2"
+              class="text-center text-2xl text-blue-100 bg-blue-800 -mx-4 -mt-4 py-5 rounded-t-lg"
             >
               Small-Letter
             </h1>
@@ -45,7 +45,7 @@
             </span>
 
             <h1
-              class="text-center text-2xl text-blue-100 bg-blue-800 -mx-4 -mt-4 py-5 rounded-t-lg -mx-2"
+              class="text-center text-2xl text-blue-100 bg-blue-800 -mx-4 -mt-4 py-5 rounded-t-lg"
             >
               Small-Letter
             </h1>
@@ -75,7 +75,7 @@
             </span>
 
             <h1
-              class="text-center text-2xl text-blue-100 bg-blue-800 -mx-4 -mt-4 py-5 rounded-t-lg -mx-2"
+              class="text-center text-2xl text-blue-100 bg-blue-800 -mx-4 -mt-4 py-5 rounded-t-lg"
             >
               Small-Letter
             </h1>

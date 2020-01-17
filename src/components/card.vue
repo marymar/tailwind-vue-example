@@ -34,15 +34,15 @@ export default {}
 }
 
 .card-hint {
-  @apply text-red-600 text-xs mt-4 mb-2;
+  @apply text-super-red text-xs mt-4 mb-2;
 }
 
 .card-title {
-  @apply text-center text-2xl text-blue-100 bg-blue-800 -mx-4 -mt-4 py-5 rounded-t-lg;
+  @apply font-bold text-center text-2xl text-blue-100 bg-blue-800 -mx-4 -mt-4 py-5 rounded-t-lg;
 }
 
 .card-text {
-  @apply card-text text-base;
+  @apply card-text text-base text-mary-green;
 }
 
 @screen sm {

@@ -25,6 +25,12 @@ module.exports = {
         padding: '.5em',
       },
     },
+    screens: {
+      smallest: '320px',
+      tablet: '768px',
+      laptop: '992px',
+      desktop: '1200px',
+    },
   },
   variants: {},
   plugins: [],

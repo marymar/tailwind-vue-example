@@ -45,9 +45,15 @@ export default {}
   @apply card-text text-base text-mary-green;
 }
 
-@screen sm {
+@screen smallest {
+  .card-hint {
+    @apply mt-0;
+  }
+}
+
+@screen tablet {
   .card-badge {
-    @apply block;
+    @apply block border border-super-red;
   }
 
   .card-hint {

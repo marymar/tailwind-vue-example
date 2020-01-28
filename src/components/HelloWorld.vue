@@ -10,7 +10,7 @@
         />
         <h1 class="text-center text-2xl text-blue-700">Small-Letter</h1>
         <p class="text-red-600 text-xs">Hinweis....</p>
-        <p class="card-text text-base">
+        <p class="text-base">
           dieser text hat eigentlich gar keinen wirklichen inhalt. aber er hat
           auch keine relevanz, und deswegen ist das egal. er dient lediglich als
           platzhalter. um mal zu zeigen, wie diese stelle der seite aussieht,
